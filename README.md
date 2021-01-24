@@ -1,4 +1,4 @@
-# Signals and Systems Lab1
+# EN1093 Signals and Systems Lab 2
 This repository contains the resources requried for the EN1093 Signals and Systems lab class 2. Please follow the following instructions to access these resources.
 
 ## Tips
